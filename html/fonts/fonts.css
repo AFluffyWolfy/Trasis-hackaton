@@ -1,0 +1,17 @@
+@font-face {
+    font-family: BrandonGrotesque;
+    src: url(brandon_grotesque/BrandonGrotesque-Bold.otf) format("opentype");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: BrandonGrotesque;
+    src: url(brandon_grotesque/BrandonGrotesque-Medium.otf) format("opentype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: BrandonGrotesque;
+    src: url(brandon_grotesque/BrandonGrotesque-Regular.otf) format("opentype");
+    font-weight: 400;
+}
